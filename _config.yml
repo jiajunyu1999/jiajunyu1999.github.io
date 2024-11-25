@@ -22,23 +22,20 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Jiajun Yu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD Candidate"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  googlescholar    : "https://scholar.google.com/citations?user=tCtMGUAAAAAJ"
+  orcid            : "https://orcid.org/signin"
+  zhihu            : "https://www.zhihu.com/people/katrina-18-72"
+  
+
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
