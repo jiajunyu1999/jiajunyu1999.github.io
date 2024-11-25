@@ -1,21 +1,9 @@
----
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-Here’s an improved and polished version of your personal website content:  
-
----
-
 ## Jiajun Yu's Homepage  
 ### Welcome to My World!  
 
-Hi there! I’m **Jiajun Yu (余家骏)**, a Ph.D. Candidate in **Computer Science** at **Zhejiang University**, proudly supervised by [Haishuai Wang](https://person.zju.edu.cn/haishuaiwang). My research focuses on the exciting intersections of **Large Language Models (LLMs)** and **Drug Discovery**—where cutting-edge AI meets the future of healthcare.  
+Hi there! I’m Jiajun Yu (余家骏), a Ph.D. Candidate in Computer Science at Zhejiang University, proudly supervised by [Haishuai Wang](https://person.zju.edu.cn/haishuaiwang). My research focuses on the exciting intersections of Large Language Models (LLMs) and Drug Discovery —where cutting-edge AI meets the future of healthcare.  
 
-Before embarking on my Ph.D. journey, I completed my **Master’s degree** in **Computer Science and Technology** at **China Agricultural University (CAU)**, where I worked under the mentorship of Associate Professor [Lu Jia](https://faculty.cau.edu.cn/jl/list.htm).  
+Before embarking on my Ph.D. journey, I completed my Master’s degree in Computer Science and Technology at China Agricultural University (CAU), where I worked under the mentorship of Associate Professor [Lu Jia](https://faculty.cau.edu.cn/jl/list.htm).  
 
 ---
 
@@ -43,33 +31,32 @@ Here’s where I’ve honed my skills and explored my research passions:
 (*+ indicates equal contribution; * indicates corresponding author*)  
 
 **Kernel Readout for Graph Neural Networks** *(CCF-A)*  
-   J. Yu+, Z. Wu+, J. Cai, A.L. Jia*, J. Fan*  
+   **J. Yu**+, Z. Wu+, J. Cai, A.L. Jia*, J. Fan*  
    *IJCAI 2024*  
 
 **Relation-Aware Multiplex Heterogeneous Graph Neural Network** *(JCR Q1)*  
-   M. Zhao+, J. Yu+, S. Zhang, A.L. Jia*  
+   M. Zhao+, **J. Yu**+, S. Zhang, A.L. Jia*  
    *Knowledge-Based Systems 2025*  
 
 **AGCL: Adaptive Graph Contrastive Learning for Graph Representation Learning** *(JCR Q1, CCF-C)*  
-   J. Yu, A.L. Jia*  
-   *Neurocomputing 2024*
+   **J. Yu**, A.L. Jia*  
+   *Neurocomputing 2024*  
 
-**Navigating Brain Language Representations: A Comparative Analysis of Neural Language Models and Psychologically Plausible Models** *(Preprint)*  
-   Y. Zhang, S. Wang, X. Dong, J. Yu, C. Zong*  
-   *CogSci 2024*
-   
+**Navigating Brain Language Representations: A Comparative Analysis of Neural Language Models and Psychologically Plausible Models** *(CCF-B)*  
+   Y. Zhang, S. Wang, X. Dong, **J. Yu**, C. Zong*  
+   *CogSci 2024*  
+
 **MLGAL: Multi-level Label Graph Adaptive Learning for Node Clustering in Attributed Graphs** *(JCR Q1, CCF-C)*  
-   J. Yu, A.L. Jia*  
+   **J. Yu**, A.L. Jia*  
    *Knowledge-Based Systems 2023*  
 
 **User Donations in Online Social Game Streaming: The Case of Paid Subscription in Twitch.TV** *(CCF-A)*  
-   J. Yu, A.L. Jia*  
+   **J. Yu**, A.L. Jia*  
    *The Web Conference 2022*  
 
 **Multi-task Support Vector Machine with Pinball Loss** *(JCR Q1, CCF-C)*  
-   Y. Zhang, J. Yu, X. Dong, P. Zhong*  
+   Y. Zhang, **J. Yu**, X. Dong, P. Zhong*  
    *Engineering Applications of Artificial Intelligence 2021*  
-
 
 ---
 
