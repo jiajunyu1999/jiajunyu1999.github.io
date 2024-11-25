@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Jiajun Yu's Homepage"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 ## Jiajun Yu's Homepage  
 ### Welcome to My World!  
 
