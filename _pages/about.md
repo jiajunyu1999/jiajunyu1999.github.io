@@ -48,6 +48,17 @@ Here’s where I’ve honed my skills and explored my research passions:
 ## 📜 Publications  
 (*+ indicates equal contribution; * indicates corresponding author*)  
 
+**Collaborative Expert LLMs Guided Multi-Objective Molecular Optimization** (Preprint)  
+   **J. Yu+**, Y. Zheng+, HY Koh+, S. Pan+, T. Wang, H. Wang  
+
+**MetricEmbedding: Accelerate Metric Nearness by Tropical Inner Product**   *(CCF-A)*  
+   Muyang Cao, **Jiajun Yu**, Xin Du, Gang Pan, Wei Wang
+   *ICML2025*
+
+**EXPLAIN: Enhancing Retrieval-Augmented Generation with Entity Summary**   *(CCF-A)*  
+   Yaozhen Liang, Xiao Liu, **Jiajun Yu**, Fang Zhouhua, Qunsheng Zou, Linghan Zheng, Yong Li, Zhiwei Liu, Haishuai Wang
+   *ACL2025 Industry Track*
+
 **Kernel Readout for Graph Neural Networks** *(CCF-A)*  
    **J. Yu**+, Z. Wu+, J. Cai, A.L. Jia*, J. Fan*  
    *IJCAI 2024*  
@@ -76,14 +87,6 @@ Here’s where I’ve honed my skills and explored my research passions:
    Y. Zhang, **J. Yu**, X. Dong, P. Zhong*  
    *Engineering Applications of Artificial Intelligence 2021*  
 
-- **Collaborative Expert LLMs Guided Multi-Objective Molecular Optimization** (Preprint)  
-   **J. Yu+**, Y. Zheng+, HY Koh+, S. Pan+, T. Wang, H. Wang  
-
-- **MetricEmbedding: Accelerate Metric Nearness by Tropical Inner Product**  
-   Muyang Cao, **Jiajun Yu**, Xin Du, Gang Pan, Wei Wang, accepted by ICML2025  
-
-- **EXPLAIN: Enhancing Retrieval-Augmented Generation with Entity Summary**  
-   Yaozhen Liang, Xiao Liu, **Jiajun Yu**, Fang Zhouhua, Qunsheng Zou, Linghan Zheng, Yong Li, Zhiwei Liu, Haishuai Wang, Accepted by ACL2025 Industry Track  
 
 ---
 
