@@ -53,12 +53,10 @@ Here’s where I’ve honed my skills and explored my research passions:
 
 **MetricEmbedding: Accelerate Metric Nearness by Tropical Inner Product**   *(CCF-A)*  
    Muyang Cao, **Jiajun Yu**, Xin Du, Gang Pan*, Wei Wang*  
-
    *ICML2025*
 
 **EXPLAIN: Enhancing Retrieval-Augmented Generation with Entity Summary** *(CCF-A)*  
    Yaozhen Liang, Xiao Liu, **Jiajun Yu**, Fang Zhouhua, Qunsheng Zou, Linghan Zheng, Yong Li, Zhiwei Liu, Haishuai Wang*  
-
    *ACL2025 Industry Track*
 
 **Kernel Readout for Graph Neural Networks** *(CCF-A)*  
