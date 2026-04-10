@@ -145,6 +145,14 @@ analytics:
   google:
     tracking_id          :
 
+# Page view counter
+pageview:
+  provider               : "busuanzi" # false (default), "busuanzi"
+  busuanzi:
+    site_uv              : true
+    site_pv              : true
+    page_pv              : true
+
 
 # Reading Files
 include:
