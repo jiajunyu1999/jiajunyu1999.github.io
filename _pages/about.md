@@ -56,6 +56,11 @@ I am a second-year Ph.D. student jointly trained by Zhejiang University and Shan
 
 > `*` and `+` denote co-first author and corresponding author, respectively.
 
+### <i class="fa fa-comments" aria-hidden="true"></i> LLM Track
+
+1. Jiajun Yu*, Linghan Zheng*, Hui Liu+, Xiaojun Lin, Jiayuan Dong, Yue Sheng, Gang Shi, Zhiwei Liu, Hongwei Chen, Haishuai Wang+. **Code-Based English Models Surprising Performance on Chinese QA Pair Extraction Task.** SIGIR Industry Track (CORE A*), 2026.
+2. Yaozhen Liang, Xiao Liu, Jiajun Yu, Zhouhua Fang, Qunsheng Zou, Linghan Zheng, Yong Li, Zhiwei Liu, Haishuai Wang+. **EXPLAIN: Enhancing Retrieval-Augmented Generation with Entity Summary.** ACL (CORE A*), 2025.
+
 ### <i class="fa fa-project-diagram" aria-hidden="true"></i> Graph-learning Track
 
 1. Jiajun Yu, Zhihao Wu, Jielong Lu, Qianqian Shen, Lele Fu, Haishuai Wang+. **Retrieval-Augmented Graph Neural Networks for Hard Graph Classification.**  (Under Review), 2026.
@@ -72,12 +77,9 @@ I am a second-year Ph.D. student jointly trained by Zhejiang University and Shan
 
 1. Jiajun Yu*, Zhihao Wu, Yizhen Zheng, Shirui Pan, Jiajun Bu, Haishuai Wang+. **Is Sequence Generation Optimal for Molecular Editing? A Graph-based MoE Alternative.** Under Review, 2026.
 2. Jiajun Yu*, Yizhen Zheng*, Huan Yee Koh*, Shirui Pan, Haishuai Wang+. **Collaborative expert LLMs guided multi-objective molecular optimization.** arXiv (Preprint), 2025.
-3. Tianyun Zhang*, Jiajun Yu*, Shang Lou*, Yaozhen Liang, Yue Liang, Zhekai Li, Haishuai Wang+, Shanshan Pei+, Ning Shen+. **Systematic discovery of single-cell protein networks in cancer with Shusi.** Nature Methods (Under Review), 2025.
+3. Tianyun Zhang*, Jiajun Yu*, Shang Lou*, Yaozhen Liang, Yue Liang, Zhekai Li, Haishuai Wang+, Shanshan Pei+, Ning Shen+. **Systematic discovery of single-cell protein networks in cancer with Shusi.** Under Review, 2025.
 
-### <i class="fa fa-comments" aria-hidden="true"></i> LLM Track
 
-1. Jiajun Yu*, Linghan Zheng*, Hui Liu+, Xiaojun Lin, Jiayuan Dong, Yue Sheng, Gang Shi, Zhiwei Liu, Hongwei Chen, Haishuai Wang+. **Code-Based English Models Surprising Performance on Chinese QA Pair Extraction Task.** SIGIR Industry Track (CORE A*), 2026.
-2. Yaozhen Liang, Xiao Liu, Jiajun Yu, Zhouhua Fang, Qunsheng Zou, Linghan Zheng, Yong Li, Zhiwei Liu, Haishuai Wang+. **EXPLAIN: Enhancing Retrieval-Augmented Generation with Entity Summary.** ACL (CORE A*), 2025.
 
 ### <i class="fa fa-ellipsis-h" aria-hidden="true"></i> Others
 
