@@ -60,12 +60,34 @@ I am a second-year Ph.D. student jointly trained by Zhejiang University and Shan
 
 ## <i class="fa fa-university" aria-hidden="true"></i> Education
 
-- **Zhejiang University & Shanghai Innovation Institute** | Ph.D. in Software Engineering | 2024.09 - 2028.03  
-  Advisors: Prof. Haishuai Wang and Associate Prof. Yu Kang.
-- **China Agricultural University** | M.Sc. in Computer Science and Technology | 2021.09 - 2024.06  
-  Recipient of National Scholarship twice (top 0.2%).
-- **China Agricultural University** | B.Sc. in Computer Science and Technology | 2017.08 - 2021.05  
-  Team leader of the university's first MCM/ICM Finalist team in 2020.
+<div class="education-list">
+  <div class="education-item">
+    <div class="education-time">2024.09 - 2028.03</div>
+    <div class="education-body">
+      <div class="education-school">Zhejiang University & Shanghai Innovation Institute</div>
+      <div class="education-degree">Ph.D. in Software Engineering</div>
+      <div class="education-note">Advisors: Prof. Haishuai Wang and Associate Prof. Yu Kang.</div>
+    </div>
+  </div>
+
+  <div class="education-item">
+    <div class="education-time">2021.09 - 2024.06</div>
+    <div class="education-body">
+      <div class="education-school">China Agricultural University</div>
+      <div class="education-degree">M.Sc. in Computer Science and Technology</div>
+      <div class="education-note">Recipient of National Scholarship twice (top 0.2%).</div>
+    </div>
+  </div>
+
+  <div class="education-item">
+    <div class="education-time">2017.08 - 2021.05</div>
+    <div class="education-body">
+      <div class="education-school">China Agricultural University</div>
+      <div class="education-degree">B.Sc. in Computer Science and Technology</div>
+      <div class="education-note">Team leader of the university's first MCM/ICM Finalist team in 2020.</div>
+    </div>
+  </div>
+</div>
 
 ---
 
