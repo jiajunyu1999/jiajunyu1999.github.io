@@ -19,17 +19,42 @@ I am a second-year Ph.D. student jointly trained by Zhejiang University and Shan
 
 ## <i class="fa fa-briefcase" aria-hidden="true"></i> Professional Experience
 
+<div class="experience-list">
+  <div class="experience-item">
+    <div class="experience-time">2024.08 - 2024.12</div>
+    <div class="experience-body">
+      <div class="experience-company">Ant Group / Alipay</div>
+      <div class="experience-role">Algorithm Intern · Shanghai</div>
+      <ul>
+        <li>Fine-tuned Llama3.1, Qwen2.5, GLM4, and DeepSeek for QA extraction in the employee assistant scenario and shipped the system online.</li>
+        <li>Designed a graph-based RAG (GraphRAG) algorithm, significantly improving base model performance in multi-task settings.</li>
+      </ul>
+    </div>
+  </div>
 
-### Ant Group / Alipay (Shanghai) | Algorithm Intern (2024.08 - 2024.12)
-- Fine-tuned Llama3.1, Qwen2.5, GLM4, and DeepSeek for QA extraction in the employee assistant scenario and shipped the system online.
-- Designed a graph-based RAG (GraphRAG) algorithm, significantly improving base model performance in multi-task settings.
+  <div class="experience-item">
+    <div class="experience-time">2023.06 - 2023.12</div>
+    <div class="experience-body">
+      <div class="experience-company">CUHK-Shenzhen / Shenzhen Institute of Big Data</div>
+      <div class="experience-role">Research Intern</div>
+      <ul>
+        <li>Improved readout functions for molecular property prediction from a kernel-method perspective.</li>
+      </ul>
+    </div>
+  </div>
 
-### CUHK-Shenzhen / Shenzhen Institute of Big Data | Research Intern (2023.06 - 2023.12)
-- Improved readout functions for molecular property prediction from a kernel-method perspective.
-
-### Kuaishou Technology (Beijing) | Algorithm Intern (2021.03 - 2021.09)
-- Led data collection and maintenance for multimodal video retrieval algorithms.
-- Built a news short-video generation pipeline from scratch; won 2nd place in the TRECVID 2021 video retrieval track.
+  <div class="experience-item">
+    <div class="experience-time">2021.03 - 2021.09</div>
+    <div class="experience-body">
+      <div class="experience-company">Kuaishou Technology</div>
+      <div class="experience-role">Algorithm Intern · Beijing</div>
+      <ul>
+        <li>Led data collection and maintenance for multimodal video retrieval algorithms.</li>
+        <li>Built a news short-video generation pipeline from scratch; won 2nd place in the TRECVID 2021 video retrieval track.</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
 ---
 
@@ -52,12 +77,12 @@ I am a second-year Ph.D. student jointly trained by Zhejiang University and Shan
 
 <div class="publication-list">
   <div class="publication-item primary-paper">
-    <div class="publication-venue">SIGIR Industry Track · CORE A* · 2026</div>
+    <div class="publication-topline"><span class="publication-venue">SIGIR Industry Track</span><span class="publication-rank">CORE A*</span><span class="publication-year">2026</span></div>
     <div class="publication-title">Code-Based English Models Surprising Performance on Chinese QA Pair Extraction Task.</div>
     <div class="publication-authors"><strong>Jiajun Yu</strong>*, Linghan Zheng*, Hui Liu+, Xiaojun Lin, Jiayuan Dong, Yue Sheng, Gang Shi, Zhiwei Liu, Hongwei Chen, Haishuai Wang+</div>
   </div>
   <div class="publication-item">
-    <div class="publication-venue">ACL · CORE A* · 2025</div>
+    <div class="publication-topline"><span class="publication-venue">ACL</span><span class="publication-rank">CORE A*</span><span class="publication-year">2025</span></div>
     <div class="publication-title">EXPLAIN: Enhancing Retrieval-Augmented Generation with Entity Summary.</div>
     <div class="publication-authors">Yaozhen Liang, Xiao Liu, <strong>Jiajun Yu</strong>, Zhouhua Fang, Qunsheng Zou, Linghan Zheng, Yong Li, Zhiwei Liu, Haishuai Wang+</div>
   </div>
@@ -67,22 +92,22 @@ I am a second-year Ph.D. student jointly trained by Zhejiang University and Shan
 
 <div class="publication-list">
   <div class="publication-item primary-paper">
-    <div class="publication-venue">KDD · CORE A* · 2026</div>
+    <div class="publication-topline"><span class="publication-venue">KDD</span><span class="publication-rank">CORE A*</span><span class="publication-year">2026</span></div>
     <div class="publication-title">Is Sequence Generation Optimal for Molecular Editing? A Graph-based MoE Alternative.</div>
     <div class="publication-authors"><strong>Jiajun Yu</strong>*, Zhihao Wu, Yizhen Zheng, Shirui Pan, Jiajun Bu, Haishuai Wang+</div>
   </div>
   <div class="publication-item primary-paper">
-    <div class="publication-venue">arXiv · Preprint · 2025</div>
+    <div class="publication-topline"><span class="publication-venue">arXiv</span><span class="publication-rank muted">Preprint</span><span class="publication-year">2025</span></div>
     <div class="publication-title">Collaborative expert LLMs guided multi-objective molecular optimization.</div>
     <div class="publication-authors"><strong>Jiajun Yu</strong>*, Yizhen Zheng*, Huan Yee Koh*, Shirui Pan, Haishuai Wang+</div>
   </div>
   <div class="publication-item primary-paper">
-    <div class="publication-venue">Under Review · 2025</div>
+    <div class="publication-topline"><span class="publication-venue">Under Review</span><span class="publication-year">2025</span></div>
     <div class="publication-title">Systematic discovery of single-cell protein networks in cancer with Shusi.</div>
     <div class="publication-authors">Tianyun Zhang*, <strong>Jiajun Yu</strong>*, Shang Lou*, Yaozhen Liang, Yue Liang, Zhekai Li, Haishuai Wang+, Shanshan Pei+, Ning Shen+</div>
   </div>
   <div class="publication-item">
-    <div class="publication-venue">IJCAI · CORE A* · 2026</div>
+    <div class="publication-topline"><span class="publication-venue">IJCAI</span><span class="publication-rank">CORE A*</span><span class="publication-year">2026</span></div>
     <div class="publication-title">PCEvo: Path-Consistent Molecular Representation via Virtual Evolutionary.</div>
     <div class="publication-authors">Kun Li, Longtao Hu, Yida Xiong, <strong>Jiajun Yu</strong>, Hongzhi Zhang, Jiameng Chen, Xiantao Cai, Jia Wu, Wenbin Hu</div>
   </div>
@@ -92,53 +117,53 @@ I am a second-year Ph.D. student jointly trained by Zhejiang University and Shan
 
 <div class="publication-list">
   <div class="publication-item primary-paper">
-    <div class="publication-venue">Under Review · 2026</div>
+    <div class="publication-topline"><span class="publication-venue">Under Review</span><span class="publication-year">2026</span></div>
     <div class="publication-title">Retrieval-Augmented Graph Neural Networks for Hard Graph Classification.</div>
     <div class="publication-authors"><strong>Jiajun Yu</strong>, Zhihao Wu, Jielong Lu, Qianqian Shen, Lele Fu, Haishuai Wang+</div>
   </div>
   <div class="publication-item primary-paper">
-    <div class="publication-venue">IJCAI · CORE A* · 2025</div>
+    <div class="publication-topline"><span class="publication-venue">IJCAI</span><span class="publication-rank">CORE A*</span><span class="publication-year">2025</span></div>
     <div class="publication-title">A Centrality-based Graph Learning Framework.</div>
     <div class="publication-authors"><strong>Jiajun Yu</strong>*, Zhihao Wu*, Jielong Lu, Haishuai Wang+</div>
   </div>
   <div class="publication-item primary-paper">
-    <div class="publication-venue">Knowledge-Based Systems · Q1 · 2025</div>
+    <div class="publication-topline"><span class="publication-venue">Knowledge-Based Systems</span><span class="publication-rank muted">Q1</span><span class="publication-year">2025</span></div>
     <div class="publication-title">Relation-aware multiplex heterogeneous graph neural network.</div>
     <div class="publication-authors">Mingxia Zhao*, <strong>Jiajun Yu</strong>*, Suiyuan Zhang, Adele Lu Jia+</div>
   </div>
   <div class="publication-item primary-paper">
-    <div class="publication-venue">IJCAI · CORE A* · 2024</div>
+    <div class="publication-topline"><span class="publication-venue">IJCAI</span><span class="publication-rank">CORE A*</span><span class="publication-year">2024</span></div>
     <div class="publication-title">Kernel Readout for Graph Neural Networks.</div>
     <div class="publication-authors"><strong>Jiajun Yu</strong>*, Zhihao Wu*, Jinyu Cai, Adele Lu Jia+, Jicong Fan+</div>
   </div>
   <div class="publication-item primary-paper">
-    <div class="publication-venue">Neurocomputing · Q1, IF~6.5 · 2024</div>
+    <div class="publication-topline"><span class="publication-venue">Neurocomputing</span><span class="publication-rank muted">Q1, IF~6.5</span><span class="publication-year">2024</span></div>
     <div class="publication-title">AGCL: Adaptive Graph Contrastive Learning for graph representation learning.</div>
     <div class="publication-authors"><strong>Jiajun Yu</strong>, Adele Lu Jia+</div>
   </div>
   <div class="publication-item primary-paper">
-    <div class="publication-venue">Knowledge-Based Systems · Q1, IF~7.6 · 2023</div>
+    <div class="publication-topline"><span class="publication-venue">Knowledge-Based Systems</span><span class="publication-rank muted">Q1, IF~7.6</span><span class="publication-year">2023</span></div>
     <div class="publication-title">MLGAL: Multi-level Label Graph Adaptive Learning for node clustering in the attributed graph.</div>
     <div class="publication-authors"><strong>Jiajun Yu</strong>, Adele Lu Jia+</div>
   </div>
   <div class="publication-item">
-    <div class="publication-venue">AAAI · CORE A* · 2026</div>
+    <div class="publication-topline"><span class="publication-venue">AAAI</span><span class="publication-rank">CORE A*</span><span class="publication-year">2026</span></div>
     <div class="publication-title">Beyond Local Patterns: Multiscale Inconsistency Learning for Graph Anomaly Detection.</div>
     <div class="publication-authors">Jin Lian, Zhihao Wu, Jielong Lu, <strong>Jiajun Yu</strong>, Qianqian Shen, Haishuai Wang</div>
     <div class="publication-note">AAAI 2026, 40(18): 15216-15224</div>
   </div>
   <div class="publication-item">
-    <div class="publication-venue">IJCAI · CORE A* · 2025</div>
+    <div class="publication-topline"><span class="publication-venue">IJCAI</span><span class="publication-rank">CORE A*</span><span class="publication-year">2025</span></div>
     <div class="publication-title">Divide and Conquer: Coordinating Multiplex Mixture of Graph Learners to Handle Multi-Omics Analysis.</div>
     <div class="publication-authors">Zhihao Wu, Jielong Lu, <strong>Jiajun Yu</strong>, Sheng Zhou, Yueyang Pi, Haishuai Wang+</div>
   </div>
   <div class="publication-item">
-    <div class="publication-venue">ACM MM · CORE A* · 2025</div>
+    <div class="publication-topline"><span class="publication-venue">ACM MM</span><span class="publication-rank">CORE A*</span><span class="publication-year">2025</span></div>
     <div class="publication-title">Where Views Meet Curves: Virtual Anchors for Hyperbolic Multi-View Graph Diffusion.</div>
     <div class="publication-authors">Jielong Lu, Zhihao Wu, <strong>Jiajun Yu</strong>, Qianqian Shen, Jiajun Bu, Haishuai Wang</div>
   </div>
   <div class="publication-item">
-    <div class="publication-venue">IJCAI · CORE A* · 2025</div>
+    <div class="publication-topline"><span class="publication-venue">IJCAI</span><span class="publication-rank">CORE A*</span><span class="publication-year">2025</span></div>
     <div class="publication-title">Multi-Omics Analysis for Cancer Subtype Inference via Unrolling Graph Smoothness Priors.</div>
     <div class="publication-authors">Jielong Lu, Zhihao Wu, <strong>Jiajun Yu</strong>, Jiajun Bu, Haishuai Wang+</div>
   </div>
@@ -148,17 +173,17 @@ I am a second-year Ph.D. student jointly trained by Zhejiang University and Shan
 
 <div class="publication-list">
   <div class="publication-item primary-paper">
-    <div class="publication-venue">WWW · CORE A* · 2022</div>
+    <div class="publication-topline"><span class="publication-venue">WWW</span><span class="publication-rank">CORE A*</span><span class="publication-year">2022</span></div>
     <div class="publication-title">User donations in online social game streaming: The case of paid subscription in twitch.tv.</div>
     <div class="publication-authors"><strong>Jiajun Yu</strong>, Adele Lu Jia+</div>
   </div>
   <div class="publication-item">
-    <div class="publication-venue">ICML · CORE A* · 2025</div>
+    <div class="publication-topline"><span class="publication-venue">ICML</span><span class="publication-rank">CORE A*</span><span class="publication-year">2025</span></div>
     <div class="publication-title">MetricEmbedding: Accelerate Metric Nearness by Tropical Inner Product.</div>
     <div class="publication-authors">Muyang Cao, <strong>Jiajun Yu</strong>, Xin Du, Gang Pan, Wei Wang</div>
   </div>
   <div class="publication-item">
-    <div class="publication-venue">Engineering Applications of Artificial Intelligence · Q1, IF~8.0 · 2021</div>
+    <div class="publication-topline"><span class="publication-venue">Engineering Applications of Artificial Intelligence</span><span class="publication-rank muted">Q1, IF~8.0</span><span class="publication-year">2021</span></div>
     <div class="publication-title">Multi-task support vector machine with pinball loss.</div>
     <div class="publication-authors">Yunhao Zhang, <strong>Jiajun Yu</strong>, Xinyi Dong, Ping Zhong+</div>
   </div>

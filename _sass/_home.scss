@@ -103,6 +103,60 @@
       padding-left: 0.2rem;
     }
 
+    .experience-list {
+      display: grid;
+      gap: 0.85rem;
+      margin: 0.8rem 0 1.45rem;
+    }
+
+    .experience-item {
+      display: grid;
+      grid-template-columns: minmax(8.4rem, 0.72fr) minmax(0, 2.2fr);
+      gap: 1rem;
+      position: relative;
+      padding: 0.95rem 1rem;
+      border: 1px solid #e2edf1;
+      border-radius: 8px;
+      background: #ffffff;
+      box-shadow: 0 4px 14px rgba(31, 64, 77, 0.035);
+    }
+
+    .experience-time {
+      color: #2f788e;
+      font-size: 0.78rem;
+      font-weight: 800;
+      letter-spacing: 0.01em;
+      line-height: 1.35;
+      text-transform: uppercase;
+    }
+
+    .experience-company {
+      color: #132b35;
+      font-size: 1rem;
+      font-weight: 750;
+      line-height: 1.35;
+    }
+
+    .experience-role {
+      margin-top: 0.12rem;
+      color: #657780;
+      font-size: 0.86rem;
+      font-weight: 650;
+      line-height: 1.4;
+    }
+
+    .experience-body ul {
+      margin: 0.48rem 0 0;
+      padding-left: 1rem;
+    }
+
+    .experience-body li {
+      margin-bottom: 0.28rem;
+      color: #3f535c;
+      font-size: 0.9rem;
+      line-height: 1.55;
+    }
+
     .publication-list {
       display: grid;
       gap: 0.68rem;
@@ -124,14 +178,55 @@
       background: linear-gradient(90deg, #f7fcfd 0%, #ffffff 42%);
     }
 
+    .publication-topline {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 0.38rem;
+      margin-bottom: 0.34rem;
+    }
+
     .publication-venue {
-      margin-bottom: 0.26rem;
       color: #2f788e;
       font-size: 0.76rem;
       font-weight: 800;
       letter-spacing: 0.01em;
       line-height: 1.35;
       text-transform: uppercase;
+    }
+
+    .publication-rank,
+    .publication-year {
+      display: inline-flex;
+      align-items: center;
+      min-height: 1.22rem;
+      padding: 0.08rem 0.42rem;
+      border: 1px solid #cddfe5;
+      border-radius: 999px;
+      color: #245d70;
+      font-size: 0.68rem;
+      font-weight: 800;
+      letter-spacing: 0.01em;
+      line-height: 1.15;
+      white-space: nowrap;
+    }
+
+    .publication-rank {
+      background: #eef8fb;
+    }
+
+    .publication-rank.muted {
+      background: #f7fafb;
+      color: #627780;
+      font-weight: 750;
+    }
+
+    .publication-year {
+      margin-left: auto;
+      border-color: transparent;
+      background: transparent;
+      color: #72838a;
+      padding-right: 0;
     }
 
     .publication-title {
@@ -242,6 +337,16 @@
         font-size: 1.12rem;
       }
 
+      .experience-item {
+        grid-template-columns: 1fr;
+        gap: 0.35rem;
+        padding: 0.82rem 0.86rem;
+      }
+
+      .experience-body li {
+        font-size: 0.88rem;
+      }
+
       .publication-item {
         padding: 0.82rem 0.86rem;
       }
@@ -253,6 +358,10 @@
       .publication-venue {
         font-size: 0.72rem;
         line-height: 1.35;
+      }
+
+      .publication-year {
+        margin-left: 0;
       }
 
       ol > li {
