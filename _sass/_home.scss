@@ -105,45 +105,23 @@
 
     .experience-list {
       display: grid;
-      gap: 0;
-      margin: 0.75rem 0 1.55rem;
-      border-top: 1px solid #e2edf1;
+      gap: 0.72rem;
+      margin: 0.75rem 0 1.5rem;
     }
 
     .experience-item {
       display: grid;
-      grid-template-columns: 9.2rem minmax(0, 1fr);
-      gap: 1.05rem;
-      position: relative;
-      padding: 0.9rem 0 0.95rem;
-      border-bottom: 1px solid #e2edf1;
-      background: transparent;
-    }
-
-    .experience-item::before {
-      content: "";
-      position: absolute;
-      left: 8.55rem;
-      top: 1.02rem;
-      bottom: 0.95rem;
-      width: 1px;
-      background: #d8e8ed;
-    }
-
-    .experience-item::after {
-      content: "";
-      position: absolute;
-      left: 8.28rem;
-      top: 1.08rem;
-      width: 0.52rem;
-      height: 0.52rem;
-      border: 2px solid #2f88a6;
-      border-radius: 50%;
+      grid-template-columns: 8.6rem minmax(0, 1fr);
+      gap: 0.95rem;
+      padding: 0.84rem 0.95rem;
+      border: 1px solid #e3edf1;
+      border-radius: 8px;
       background: #ffffff;
     }
 
     .experience-time {
-      padding-top: 0.08rem;
+      align-self: start;
+      padding-top: 0.12rem;
       color: #71848c;
       font-size: 0.74rem;
       font-weight: 750;
@@ -153,7 +131,7 @@
     }
 
     .experience-body {
-      padding-left: 0.2rem;
+      min-width: 0;
     }
 
     .experience-company {
@@ -198,21 +176,23 @@
 
     .education-list {
       display: grid;
-      gap: 0;
-      margin: 0.75rem 0 1.55rem;
-      border-top: 1px solid #e2edf1;
+      gap: 0.72rem;
+      margin: 0.75rem 0 1.5rem;
     }
 
     .education-item {
       display: grid;
-      grid-template-columns: 9.2rem minmax(0, 1fr);
-      gap: 1.05rem;
-      padding: 0.82rem 0 0.86rem;
-      border-bottom: 1px solid #e2edf1;
+      grid-template-columns: 8.6rem minmax(0, 1fr);
+      gap: 0.95rem;
+      padding: 0.8rem 0.95rem;
+      border: 1px solid #e3edf1;
+      border-radius: 8px;
+      background: #ffffff;
     }
 
     .education-time {
-      padding-top: 0.08rem;
+      align-self: start;
+      padding-top: 0.12rem;
       color: #71848c;
       font-size: 0.74rem;
       font-weight: 750;
@@ -222,7 +202,7 @@
     }
 
     .education-body {
-      padding-left: 0.2rem;
+      min-width: 0;
     }
 
     .education-school {
@@ -273,7 +253,7 @@
       flex-wrap: wrap;
       align-items: center;
       gap: 0.32rem;
-      margin-bottom: 0.28rem;
+      margin-bottom: 0.26rem;
     }
 
     .publication-venue {
@@ -309,12 +289,19 @@
     }
 
     .publication-year {
-      margin-left: auto;
+      margin-left: 0.08rem;
       color: #8a989e;
       font-size: 0.7rem;
       font-weight: 700;
       line-height: 1.2;
       white-space: nowrap;
+    }
+
+    .publication-year::before {
+      content: "/";
+      margin-right: 0.35rem;
+      color: #c2d0d5;
+      font-weight: 500;
     }
 
     .publication-title {
@@ -427,17 +414,12 @@
 
       .experience-item {
         grid-template-columns: 1fr;
-        gap: 0.24rem;
-        padding: 0.82rem 0;
-      }
-
-      .experience-item::before,
-      .experience-item::after {
-        display: none;
+        gap: 0.26rem;
+        padding: 0.78rem 0.82rem;
       }
 
       .experience-body {
-        padding-left: 0;
+        min-width: 0;
       }
 
       .experience-body li {
@@ -446,12 +428,12 @@
 
       .education-item {
         grid-template-columns: 1fr;
-        gap: 0.24rem;
-        padding: 0.78rem 0;
+        gap: 0.26rem;
+        padding: 0.76rem 0.82rem;
       }
 
       .education-body {
-        padding-left: 0;
+        min-width: 0;
       }
 
       .publication-item {
