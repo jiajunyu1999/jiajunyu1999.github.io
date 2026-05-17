@@ -2,6 +2,7 @@
 permalink: /
 title: "Jiajun Yu"
 author_profile: true
+classes: home-page
 redirect_from: 
   - /about/
   - /about.html
@@ -54,7 +55,7 @@ I am a second-year Ph.D. student jointly trained by Zhejiang University and Shan
 
 ### 🧬 <i class="fa fa-flask" aria-hidden="true"></i> AI for Science Track
 
-1. **Jiajun Yu***, Zhihao Wu, Yizhen Zheng, Shirui Pan, Jiajun Bu, Haishuai Wang+. **Is Sequence Generation Optimal for Molecular Editing? A Graph-based MoE Alternative.** Under Review, 2026.
+1. **Jiajun Yu***, Zhihao Wu, Yizhen Zheng, Shirui Pan, Jiajun Bu, Haishuai Wang+. **Is Sequence Generation Optimal for Molecular Editing? A Graph-based MoE Alternative.** KDD (CORE A*), 2026.
 2. **Jiajun Yu***, Yizhen Zheng*, Huan Yee Koh*, Shirui Pan, Haishuai Wang+. **Collaborative expert LLMs guided multi-objective molecular optimization.** arXiv (Preprint), 2025.
 3. Tianyun Zhang*, **Jiajun Yu***, Shang Lou*, Yaozhen Liang, Yue Liang, Zhekai Li, Haishuai Wang+, Shanshan Pei+, Ning Shen+. **Systematic discovery of single-cell protein networks in cancer with Shusi.** Under Review, 2025.
 
