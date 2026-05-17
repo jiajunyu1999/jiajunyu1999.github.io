@@ -57,7 +57,17 @@
       letter-spacing: 0;
     }
 
+    h2 i,
+    h3 i {
+      width: 1.2rem;
+      color: #2f88a6;
+      text-align: center;
+    }
+
     h3 {
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
       margin-top: 1.25rem;
       margin-bottom: 0.55rem;
       color: #265466;
@@ -91,6 +101,66 @@
     li {
       margin-bottom: 0.45rem;
       padding-left: 0.2rem;
+    }
+
+    .publication-list {
+      display: grid;
+      gap: 0.72rem;
+      margin: 0.65rem 0 1.35rem;
+    }
+
+    .publication-item {
+      position: relative;
+      padding: 0.92rem 1rem 0.88rem 1.08rem;
+      border: 1px solid #dfecef;
+      border-left: 4px solid #d3e5eb;
+      border-radius: 8px;
+      background: #ffffff;
+      box-shadow: 0 8px 20px rgba(31, 64, 77, 0.045);
+    }
+
+    .publication-item.primary-paper {
+      border-left-color: #2f88a6;
+      background: linear-gradient(180deg, #ffffff 0%, #f7fcfd 100%);
+    }
+
+    .publication-title {
+      color: #132b35;
+      font-size: 0.98rem;
+      font-weight: 700;
+      line-height: 1.45;
+    }
+
+    .publication-authors {
+      margin-top: 0.35rem;
+      color: #4d626c;
+      font-size: 0.88rem;
+      line-height: 1.55;
+
+      strong {
+        color: #1b4656;
+      }
+    }
+
+    .publication-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.38rem;
+      margin-top: 0.55rem;
+
+      span {
+        display: inline-flex;
+        align-items: center;
+        min-height: 1.45rem;
+        padding: 0.18rem 0.5rem;
+        border: 1px solid #d3e6ec;
+        border-radius: 999px;
+        background: #eef7fa;
+        color: #245d70;
+        font-size: 0.74rem;
+        font-weight: 700;
+        line-height: 1.2;
+      }
     }
 
     ol {
@@ -174,6 +244,18 @@
       h2 {
         align-items: flex-start;
         font-size: 1.12rem;
+      }
+
+      .publication-item {
+        padding: 0.82rem 0.86rem;
+      }
+
+      .publication-title {
+        font-size: 0.94rem;
+      }
+
+      .publication-meta span {
+        max-width: 100%;
       }
 
       ol > li {
