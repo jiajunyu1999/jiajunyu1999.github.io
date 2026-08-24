@@ -26,7 +26,6 @@ Research interests
 
 Work experience
 ======
-* **Shanghai Artificial Intelligence Laboratory**, Life Science Foundation Model Intern, 2025.02-2025.09
 * **Ant Group / Alipay**, Algorithm Intern, 2024.08-2024.12
 * **CUHK-Shenzhen / Shenzhen Institute of Big Data**, Research Intern, 2023.06-2023.12
 * **Kuaishou Technology**, Algorithm Intern, 2021.03-2021.09

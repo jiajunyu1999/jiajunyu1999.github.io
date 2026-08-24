@@ -21,18 +21,6 @@ I am a second-year Ph.D. student jointly trained by Zhejiang University and Shan
 
 <div class="experience-list">
   <div class="experience-item">
-    <div class="experience-time">2025.02 - 2025.09</div>
-    <div class="experience-body">
-      <div class="experience-company">Shanghai Artificial Intelligence Laboratory</div>
-      <div class="experience-role">Life Science Foundation Model Intern</div>
-      <ul>
-        <li>Designed an AlphaFold3-based coarse-to-fine screening pipeline for protein-protein interactions; 4 of 10 shortlisted cases were validated successfully in wet-lab experiments.</li>
-        <li>Contributed to the Intern Discovery platform and helped bring 8 agents online.</li>
-      </ul>
-    </div>
-  </div>
-
-  <div class="experience-item">
     <div class="experience-time">2024.08 - 2024.12</div>
     <div class="experience-body">
       <div class="experience-company">Ant Group / Alipay</div>
